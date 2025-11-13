@@ -12,13 +12,5 @@ Haizar Yusuf Fahrezzy
 
 
 
-Praktikum
-
-Analisa
-
-big
-
-data
-
-ekonomika
+Praktikum Analisa Bigdata Ekonomika
 
