@@ -14,3 +14,5 @@ Haizar Yusuf Fahrezzy
 
 Praktikum Analisa Bigdata Ekonomika
 
+yanTHO
+
