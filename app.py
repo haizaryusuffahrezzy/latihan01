@@ -8,8 +8,8 @@ pages = [
 
 pg = st.navigation(
     pages,
-    position="sidebar" ,
-    expanded= True
+    position="sidebar",
+    expanded=True
 )
 
 pg.run()
